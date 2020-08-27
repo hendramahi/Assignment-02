@@ -29,4 +29,3 @@ MergedDf <- merge(stats,DfBcAlb, by.x="BC", by.y = "BC")
 MergedDf
 MergedDf$Alberta.y <- NULL
 MergedDf
-
